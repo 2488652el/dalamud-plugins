@@ -1,0 +1,98 @@
+[
+  {
+    "Author": "electr0sheep, Nuko, 2488652el(汉化)",
+    "Name": "Item Vendor Location",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "2.14.0.1",
+    "Description": "为物品添加右键菜单选项，显示可从哪些商人处购买该物品（简体中文汉化版）",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/2488652el/ItemVendorLocation-cn",
+    "Tags": [
+      "item",
+      "location",
+      "vendor"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "显示可从商人处购买的物品的兑换位置（汉化版）",
+    "Changelog": "- 完整简体中文汉化\n- Added support for collectable shops (Nuko)\n- Added some support for relic weapons (Nuko)\n- Fix tooltip error (Nebel)\n- Update to API 9\n",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/2488652el/ItemVendorLocation-cn/main/Images/ContextMenu.png"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1787942080,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip"
+  },
+  {
+    "Author": "Kouzukii, 2488652el(汉化)",
+    "Name": "Character Panel Refined",
+    "InternalName": "CharacterPanelRefined",
+    "AssemblyVersion": "1.8.6.0",
+    "Description": "精简角色面板，隐藏无用信息，同时显示暴击率、直击率等实用属性与预估伤害，方便对比装备（简体中文汉化版）",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+    "Tags": [
+      "character",
+      "stats"
+    ],
+    "CategoryTags": [
+      "ui"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "精简角色面板，只显示暴击、直击等实用信息（汉化版）",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
+      "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1787942080,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip"
+  },
+  {
+    "Author": "veyn, croizat, 2488652el(汉化)",
+    "Name": "Visland 汉化版",
+    "InternalName": "visland-cn",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "自动化无人岛的各项事务：自动采集、工坊安排等（简体中文汉化版）",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+    "Tags": [
+      "island",
+      "automation"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "自动化无人岛的各项事务（汉化版）",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1787942080,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/visland-cn.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/visland-cn.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/visland-cn.zip"
+  }
+]
