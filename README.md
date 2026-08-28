@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 | 图标 | 插件 | 版本 | 说明 |
 | :--: | --- | :--: | --- |
 | <img src="plugins/ItemVendorLocation/icon.png" width="32"> | **Item Vendor Location（汉化版）** | 2.14.0.1 | 为物品添加右键菜单，显示可从哪些商人处购买/兑换该物品 |
-| <img src="plugins/CharacterPanelRefined/icon.png" width="32"> | **Character Panel Refined（汉化版）** | 1.8.6.0 | 精简角色面板，显示暴击率、直击率等实用属性与预估伤害 |
+| – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
 
 > 汉化仅涉及用户可见文本，插件功能与原版保持一致；署名中的原作者保留全部权利。
@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 ## 相关链接
 
 - 插件源码（ItemVendorLocation 汉化版）：[2488652el/ItemVendorLocation-cn](https://github.com/2488652el/ItemVendorLocation-cn)
+- 插件源码（MiniMappingway 汉化版）：[2488652el/MiniMappingway-cn](https://github.com/2488652el/MiniMappingway-cn)
 - 仓库清单文件：[repo.json](repo.json)
 
 ## 免责声明

@@ -33,39 +33,35 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip"
   },
   {
-    "Author": "Kouzukii, 2488652el(汉化)",
-    "Name": "Character Panel Refined",
-    "InternalName": "CharacterPanelRefined",
-    "AssemblyVersion": "1.8.6.0",
-    "Description": "精简角色面板，隐藏无用信息，同时显示暴击率、直击率等实用属性与预估伤害，方便对比装备（简体中文汉化版）",
+    "Author": "Azure Gem, Created by JayceOfSpades, 2488652el(汉化)",
+    "Name": "Mini-Mappingway",
+    "InternalName": "MiniMappingway",
+    "AssemblyVersion": "15.750.1.4",
+    "Description": "在小地图上显示你的好友和部队成员。可在设置中自定义标记样式，并自由选择显示好友、部队成员或所有人！图标由推特 @Miendoodle 绘制，感谢 nya 的创意！（简体中文汉化版）",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+    "RepoUrl": "https://github.com/2488652el/MiniMappingway-cn",
     "Tags": [
-      "character",
-      "stats"
-    ],
-    "CategoryTags": [
-      "ui"
+      "friends",
+      "minimap",
+      "find",
+      "Free Company",
+      "FC",
+      "mmway"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "精简角色面板，只显示暴击、直击等实用信息（汉化版）",
+    "Punchline": "在小地图上显示你的好友和部队成员（简体中文汉化版）",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image1.png",
-      "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
-    ],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1787942080,
+    "LastUpdate": 1787947956,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/MiniMappingway/MiniMappingway.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/MiniMappingway/MiniMappingway.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/MiniMappingway/MiniMappingway.zip"
   },
   {
     "Author": "veyn, croizat, 2488652el(汉化)",
