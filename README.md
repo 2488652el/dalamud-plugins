@@ -8,7 +8,7 @@
 
 [![Dalamud](https://img.shields.io/badge/Dalamud-卫月插件仓库-blueviolet)](https://github.com/goatcorp/Dalamud)
 [![API Level](https://img.shields.io/badge/API%20Level-15-brightgreen)](repo.json)
-[![插件数量](https://img.shields.io/badge/汉化插件-3-orange)](repo.json)
+[![插件数量](https://img.shields.io/badge/汉化插件-4-orange)](repo.json)
 [![最近更新](https://img.shields.io/github/last-commit/2488652el/dalamud-plugins?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)](https://github.com/2488652el/dalamud-plugins/commits/master)
 [![Stars](https://img.shields.io/github/stars/2488652el/dalamud-plugins?style=flat)](https://github.com/2488652el/dalamud-plugins/stargazers)
 
@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 
 | 图标 | 插件 | 版本 | 说明 |
 | :--: | --- | :--: | --- |
+| <img src="plugins/Browsingway/icon.png" width="32"> | **Browsingway（汉化版）** | 1.7.2.1 | 在游戏内渲染浏览器悬浮窗，全屏游戏同时使用 ACT 悬浮窗、网页视频等 |
 | <img src="plugins/ItemVendorLocation/icon.png" width="32"> | **Item Vendor Location（汉化版）** | 2.14.0.1 | 为物品添加右键菜单，显示可从哪些商人处购买/兑换该物品 |
 | – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
@@ -39,6 +40,18 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 > 汉化仅涉及用户可见文本，插件功能与原版保持一致；署名中的原作者保留全部权利。
 
 ## 🔍 插件详情
+
+### Browsingway（汉化版）
+
+在游戏内渲染基于 Chromium 的浏览器悬浮窗，全屏（及 G-SYNC）游戏的同时也能正常使用 ACT 悬浮窗、看网页视频、浏览任意网站。
+
+- 支持 DPI 缩放、缩放倍率、不透明度、帧率逐项调节
+- 静音、禁用、隐藏、脱战隐藏、PvP 隐藏一应俱全
+- 鼠标穿透 / 键盘穿透 / 锁定 / 全屏模式，支持自定义 CSS 注入
+- ACT/IINACT 专属优化：ACT 未运行时自动禁用悬浮窗
+- 聊天指令：`/bw config` 打开设置窗口；`/bw overlay [指令名] [设置项] [值]` 通过聊天栏修改设置
+- 首次使用会自动下载 CEF 浏览器依赖组件（体积较大，托管于 GitHub，带 SHA256 校验）
+- 源码：[2488652el/Browsingway-cn](https://github.com/2488652el/Browsingway-cn)
 
 ### Item Vendor Location（汉化版）
 
@@ -102,6 +115,7 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 
 ## 🔗 相关链接
 
+- 插件源码（Browsingway 汉化版）：[2488652el/Browsingway-cn](https://github.com/2488652el/Browsingway-cn)
 - 插件源码（ItemVendorLocation 汉化版）：[2488652el/ItemVendorLocation-cn](https://github.com/2488652el/ItemVendorLocation-cn)
 - 插件源码（MiniMappingway 汉化版）：[2488652el/MiniMappingway-cn](https://github.com/2488652el/MiniMappingway-cn)
 - 仓库清单文件：[repo.json](repo.json)
