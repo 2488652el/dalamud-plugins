@@ -126,5 +126,42 @@
     "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/visland-cn.zip",
     "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/visland-cn.zip",
     "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/visland-cn.zip"
+  },
+  {
+    "Author": "Infi, 2488652el(汉化)",
+    "Name": "Submarine Tracker",
+    "InternalName": "SubmarineTracker",
+    "AssemblyVersion": "2.0.6.1",
+    "Description": "+ 追踪当前配置、航线与返回时间 \n+ 配置器：改进、求解配装并优化经验获取 \n+ 可配置的返回与维修提醒 \n+ 助手页汇集各类实用信息 \n+ 自定义战利品总览，支持历史记录与导出 \n+ 多种悬浮窗辅助日常操作 \n+ 支持多部队管理 \n（简体中文汉化版）",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Infiziert90/SubmarineTracker",
+    "Tags": [
+      "Submarine",
+      "Tracker",
+      "Builder",
+      "Loot",
+      "Optimizer",
+      "Notifications",
+      "Helper",
+      "Solver",
+      "Routes",
+      "Sub",
+      "Overlay"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "潜水艇的第一条规则：不要谈论潜水艇（简体中文汉化版）",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/SubmarineTracker/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1788266984,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/SubmarineTracker/SubmarineTracker.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/SubmarineTracker/SubmarineTracker.zip",
+    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/SubmarineTracker/SubmarineTracker.zip"
   }
 ]

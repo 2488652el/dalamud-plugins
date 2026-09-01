@@ -8,7 +8,7 @@
 
 [![Dalamud](https://img.shields.io/badge/Dalamud-卫月插件仓库-blueviolet)](https://github.com/goatcorp/Dalamud)
 [![API Level](https://img.shields.io/badge/API%20Level-15-brightgreen)](repo.json)
-[![插件数量](https://img.shields.io/badge/汉化插件-4-orange)](repo.json)
+[![插件数量](https://img.shields.io/badge/汉化插件-5-orange)](repo.json)
 [![最近更新](https://img.shields.io/github/last-commit/2488652el/dalamud-plugins?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)](https://github.com/2488652el/dalamud-plugins/commits/master)
 [![Stars](https://img.shields.io/github/stars/2488652el/dalamud-plugins?style=flat)](https://github.com/2488652el/dalamud-plugins/stargazers)
 
@@ -35,6 +35,7 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 | <img src="plugins/Browsingway/icon.png" width="32"> | **Browsingway（汉化版）** | 1.7.2 | 在游戏内渲染浏览器悬浮窗，全屏游戏同时使用 ACT 悬浮窗、网页视频等 |
 | <img src="plugins/ItemVendorLocation/icon.png" width="32"> | **Item Vendor Location（汉化版）** | 2.14.0.1 | 为物品添加右键菜单，显示可从哪些商人处购买/兑换该物品 |
 | – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
+| <img src="plugins/SubmarineTracker/icon.png" width="32"> | **Submarine Tracker（汉化版）** | 2.0.6.1 | 潜水艇艇队管家：航线追踪、配装求解、返回提醒、战利品统计 |
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
 
 > 汉化仅涉及用户可见文本，插件功能与原版保持一致；署名中的原作者保留全部权利。
@@ -87,6 +88,17 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 - 工坊安排：自动排产、自动收取
 - 更多无人岛事务持续覆盖中
 - 原版 Wiki（路线预设等）：[ffxiv_visland Wiki](https://github.com/awgil/ffxiv_visland/wiki)
+
+### Submarine Tracker（汉化版）
+
+部队潜水艇的全能管家，练级、收菜、算收益一个插件搞定。
+
+- 追踪器：实时查看各潜艇配置、航线与返回时间，支持多部队
+- 配置器：求解最优配装，按等级 / 经验效率自动规划航线
+- 返回与维修提醒：游戏内通知、聊天栏提示，支持 Discord Webhook
+- 战利品总览：掉落统计、历史记录，可导出 CSV
+- 聊天指令：`/stracker` 打开追踪器窗口
+- 源码：[Infiziert90/SubmarineTracker](https://github.com/Infiziert90/SubmarineTracker)
 
 ## 📥 安装教程
 
