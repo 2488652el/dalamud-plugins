@@ -195,8 +195,8 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1788275777,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/InventoryTools/InventoryTools.zip",
-    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/InventoryTools/InventoryTools.zip",
-    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/InventoryTools/InventoryTools.zip"
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@ce9aa307c39befcab1c68e3b7c862be3caa81cd1/plugins/InventoryTools/InventoryTools.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@ce9aa307c39befcab1c68e3b7c862be3caa81cd1/plugins/InventoryTools/InventoryTools.zip",
+    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@ce9aa307c39befcab1c68e3b7c862be3caa81cd1/plugins/InventoryTools/InventoryTools.zip"
   }
 ]
