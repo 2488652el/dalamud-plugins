@@ -21,7 +21,7 @@
 在卫月「自定义插件仓库」中添加以下地址即可订阅本仓库，一次订阅，永久获取全部汉化插件及后续更新：
 
 ```
-https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
+https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 ```
 
 > 订阅方式见下方[安装教程](#-安装教程)。
@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 无需手动操作。卫月会定期检查仓库清单，发现新版本后插件安装器中会出现「更新」按钮，点击即可。
 
 **下载很慢或失败？**
-插件包托管于 GitHub，部分地区直连较慢。可尝试切换网络环境或使用加速工具后，在插件安装器中重试。
+插件包与仓库清单均通过 jsDelivr CDN 分发，国内可直接访问。若你仍使用旧的 GitHub Raw 地址订阅，请在「自定义插件仓库」中删除旧地址，换用上方新地址后重试。
 
 **游戏版本更新后插件提示不兼容？**
 国服版本更新后，卫月框架与插件需要相应适配。请耐心等待更新推送，本仓库会在汉化版适配完成后第一时间跟进。

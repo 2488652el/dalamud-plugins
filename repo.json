@@ -26,14 +26,14 @@
     "Punchline": "在游戏内渲染浏览器悬浮窗（简体中文汉化版）",
     "Changelog": "- API 15\n- 完整简体中文汉化\n",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/Browsingway/icon.png",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/Browsingway/icon.png",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1788259361,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip"
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/Browsingway/Browsingway.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/Browsingway/Browsingway.zip",
+    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/Browsingway/Browsingway.zip"
   },
   {
     "Author": "electr0sheep, Nuko, 2488652el(汉化)",
@@ -56,17 +56,17 @@
     "Punchline": "显示可从商人处购买的物品的兑换位置（汉化版）",
     "Changelog": "- 完整简体中文汉化\n- Added support for collectable shops (Nuko)\n- Added some support for relic weapons (Nuko)\n- Fix tooltip error (Nebel)\n- Update to API 9\n",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/icon.png",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/ItemVendorLocation/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/2488652el/ItemVendorLocation-cn/main/Images/ContextMenu.png"
+      "https://cdn.jsdelivr.net/gh/2488652el/ItemVendorLocation-cn@main/Images/ContextMenu.png"
     ],
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1787942080,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/ItemVendorLocation/ItemVendorLocation.zip"
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/ItemVendorLocation/ItemVendorLocation.zip"
   },
   {
     "Author": "Azure Gem, Created by JayceOfSpades, 2488652el(汉化)",
@@ -95,9 +95,9 @@
     "IsTestingExclusive": false,
     "LastUpdate": 1787947956,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/MiniMappingway/MiniMappingway.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/MiniMappingway/MiniMappingway.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/MiniMappingway/MiniMappingway.zip"
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/MiniMappingway/MiniMappingway.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/MiniMappingway/MiniMappingway.zip",
+    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/MiniMappingway/MiniMappingway.zip"
   },
   {
     "Author": "veyn, croizat, 2488652el(汉化)",
@@ -118,13 +118,13 @@
     "LoadPriority": 0,
     "Punchline": "自动化无人岛的各项事务（汉化版）",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/icon.png",
+    "IconUrl": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/icon.png",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 1787942080,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/visland-cn.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/visland-cn.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/plugins/visland-cn/visland-cn.zip"
+    "DownloadLinkInstall": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/visland-cn.zip",
+    "DownloadLinkUpdate": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/visland-cn.zip",
+    "DownloadLinkTesting": "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/visland-cn/visland-cn.zip"
   }
 ]
