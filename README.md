@@ -8,7 +8,7 @@
 
 [![Dalamud](https://img.shields.io/badge/Dalamud-卫月插件仓库-blueviolet)](https://github.com/goatcorp/Dalamud)
 [![API Level](https://img.shields.io/badge/API%20Level-15-brightgreen)](repo.json)
-[![插件数量](https://img.shields.io/badge/汉化插件-5-orange)](repo.json)
+[![插件数量](https://img.shields.io/badge/汉化插件-6-orange)](repo.json)
 [![最近更新](https://img.shields.io/github/last-commit/2488652el/dalamud-plugins?label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)](https://github.com/2488652el/dalamud-plugins/commits/master)
 [![Stars](https://img.shields.io/github/stars/2488652el/dalamud-plugins?style=flat)](https://github.com/2488652el/dalamud-plugins/stargazers)
 
@@ -37,6 +37,7 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 | – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
 | <img src="plugins/SubmarineTracker/icon.png" width="32"> | **Submarine Tracker（汉化版）** | 2.0.6.1 | 潜水艇艇队管家：航线追踪、配装求解、返回提醒、战利品统计 |
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
+| <img src="plugins/InventoryTools/icon.png" width="32"> | **Allagan Tools（汉化版）** | 1.0.0.0 | 跨角色/雇员/部队储物柜追踪物品，支持整理、制作规划、市场查询与副本信息 |
 
 > 汉化仅涉及用户可见文本，插件功能与原版保持一致；署名中的原作者保留全部权利。
 
@@ -99,6 +100,15 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 - 战利品总览：掉落统计、历史记录，可导出 CSV
 - 聊天指令：`/stracker` 打开追踪器窗口
 - 源码：[Infiziert90/SubmarineTracker](https://github.com/Infiziert90/SubmarineTracker)
+
+### Allagan Tools（汉化版）
+
+跨角色、雇员与部队储物柜的物品追踪与整理工具。可通过过滤器定位物品、规划制作清单、查询市场信息，并提供 NPC、副本、飞空艇与潜水艇等可搜索资料窗口。
+
+- 物品右键菜单支持查看详情、搜索、复制名称、加入制作/精选清单，以及打开制作、采集、钓鱼笔记
+- 过滤器、配置向导、悬浮提示、制作规划与市场布告板功能均已简体中文化
+- 保留 `InventoryTools` InternalName，以兼容 Artisan 等下游插件的 IPC 接口
+- 安装后在 `/xlplugins` 中搜索 **Allagan Tools 汉化版**
 
 ## 📥 安装教程
 
