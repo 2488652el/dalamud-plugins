@@ -37,7 +37,7 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 | – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
 | <img src="plugins/SubmarineTracker/icon.png" width="32"> | **Submarine Tracker（汉化版）** | 2.0.6.1 | 潜水艇艇队管家：航线追踪、配装求解、返回提醒、战利品统计 |
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
-| <img src="plugins/InventoryTools/icon.png" width="32"> | **Allagan Tools（汉化版）** | 1.0.0.0 | 跨角色/雇员/部队储物柜追踪物品，支持整理、制作规划、市场查询与副本信息 |
+| <img src="plugins/InventoryTools/icon.png" width="32"> | **Allagan Tools（汉化版）** | 1.15.0.12 | 跨角色/雇员/部队储物柜追踪物品，支持整理、制作规划、市场查询与副本信息 |
 
 > 汉化仅涉及用户可见文本，插件功能与原版保持一致；署名中的原作者保留全部权利。
 
@@ -107,6 +107,7 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 
 - 物品右键菜单支持查看详情、搜索、复制名称、加入制作/精选清单，以及打开制作、采集、钓鱼笔记
 - 过滤器、配置向导、悬浮提示、制作规划与市场布告板功能均已简体中文化
+- 1.15.0.12 起会自动迁移旧配置，将系统默认清单的英文名称转换为中文
 - 保留 `InventoryTools` InternalName，以兼容 Artisan 等下游插件的 IPC 接口
 - 安装后在 `/xlplugins` 中搜索 **Allagan Tools 汉化版**
 
