@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/2488652el/dalamud-plugins/master/repo.json
 
 | 图标 | 插件 | 版本 | 说明 |
 | :--: | --- | :--: | --- |
-| <img src="plugins/Browsingway/icon.png" width="32"> | **Browsingway（汉化版）** | 1.7.2.1 | 在游戏内渲染浏览器悬浮窗，全屏游戏同时使用 ACT 悬浮窗、网页视频等 |
+| <img src="plugins/Browsingway/icon.png" width="32"> | **Browsingway（汉化版）** | 1.7.2 | 在游戏内渲染浏览器悬浮窗，全屏游戏同时使用 ACT 悬浮窗、网页视频等 |
 | <img src="plugins/ItemVendorLocation/icon.png" width="32"> | **Item Vendor Location（汉化版）** | 2.14.0.1 | 为物品添加右键菜单，显示可从哪些商人处购买/兑换该物品 |
 | – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
