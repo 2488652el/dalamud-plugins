@@ -131,7 +131,7 @@
         "Author":  "Critical_Impact, 2488652el(汉化)",
         "Name":  "Allagan Tools 汉化版",
         "InternalName":  "InventoryTools",
-        "AssemblyVersion":  "1.15.0.12",
+        "AssemblyVersion":  "1.15.0.13",
         "Description":  "跨角色/雇员/部队储物柜的物品追踪与整理，强大的物品过滤器，详细的物品信息窗口，Universalis 市场布告板集成，副本站/怪物/飞空艇/潜水艇的可搜索列表，完整的制作清单规划。（简体中文汉化版，InternalName 保留以兼容 Artisan 等插件的 IPC 接口）",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/2488652el/dalamud-plugins",
@@ -151,15 +151,15 @@
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
         "Punchline":  "跨背包追踪物品、规划制作、查询市场与副本信息（汉化版）",
-        "Changelog":  "- 将版本更新至 1.15.0.12\n- 自动汉化旧配置中保存的默认清单名称\n- 补全清单类型、角色列和通用下拉选项的中文文本\n",
+        "Changelog":  "- 更新至上游 15.0.13，保留完整简体中文汉化\n- 更新 7.56 游戏数据\n- 修复较慢电脑上可能出现的启动问题\n- 修复图鉴中查看 BST 时的报错",
         "AcceptsFeedback":  true,
         "IconUrl":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/plugins/InventoryTools/icon.png",
         "IsHide":  false,
         "IsTestingExclusive":  false,
         "LastUpdate":  1788275777,
         "DownloadCount":  0,
-        "DownloadLinkInstall":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@ce9aa307c39befcab1c68e3b7c862be3caa81cd1/plugins/InventoryTools/InventoryTools.zip",
-        "DownloadLinkUpdate":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@ce9aa307c39befcab1c68e3b7c862be3caa81cd1/plugins/InventoryTools/InventoryTools.zip",
-        "DownloadLinkTesting":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@ce9aa307c39befcab1c68e3b7c862be3caa81cd1/plugins/InventoryTools/InventoryTools.zip"
+        "DownloadLinkInstall":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@87cf859f5c48ebd6d1b163b6aad4b55681df5070/plugins/InventoryTools/InventoryTools.zip",
+        "DownloadLinkUpdate":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@87cf859f5c48ebd6d1b163b6aad4b55681df5070/plugins/InventoryTools/InventoryTools.zip",
+        "DownloadLinkTesting":  "https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@87cf859f5c48ebd6d1b163b6aad4b55681df5070/plugins/InventoryTools/InventoryTools.zip"
     }
 ]

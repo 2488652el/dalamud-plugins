@@ -37,7 +37,7 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 | – | **Mini-Mappingway（汉化版）** | 15.750.1.4 | 在小地图上显示好友和部队成员，可自定义标记样式与显示范围 |
 
 | <img src="plugins/visland-cn/icon.png" width="32"> | **Visland（汉化版）** | 1.0.0.0 | 自动化无人岛的各项事务：自动采集、工坊安排等 |
-| <img src="plugins/InventoryTools/icon.png" width="32"> | **Allagan Tools（汉化版）** | 1.15.0.12 | 跨角色/雇员/部队储物柜追踪物品，支持整理、制作规划、市场查询与副本信息 |
+| <img src="plugins/InventoryTools/icon.png" width="32"> | **Allagan Tools（汉化版）** | 1.15.0.13 | 跨角色/雇员/部队储物柜追踪物品，支持整理、制作规划、市场查询与副本信息 |
 
 > 汉化仅涉及用户可见文本，插件功能与原版保持一致；署名中的原作者保留全部权利。
 
@@ -91,6 +91,8 @@ https://cdn.jsdelivr.net/gh/2488652el/dalamud-plugins@master/repo.json
 - 原版 Wiki（路线预设等）：[ffxiv_visland Wiki](https://github.com/awgil/ffxiv_visland/wiki)
 
 ### Allagan Tools（汉化版）
+
+当前版本 **1.15.0.13**：同步上游 15.0.13，更新 7.56 游戏数据，修复较慢电脑上的启动问题和图鉴查看 BST 时的报错；保留现有简体中文汉化。
 
 跨角色、雇员与部队储物柜的物品追踪与整理工具。可通过过滤器定位物品、规划制作清单、查询市场信息，并提供 NPC、副本、飞空艇与潜水艇等可搜索资料窗口。
 
